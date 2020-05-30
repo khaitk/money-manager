@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div#container-login {
+    width: 1000px;
+    height: 510px;
+    margin: auto;
+    background-image: url(../image/backgroundms.png);
+}
+
+div#content-lg {
+    width: 475px;
+    height: 291px;
+    position: relative;
+    top: 60px;
+    margin: auto;
+    background-color: #ff2e2e;
+    padding-left: 45px;
+    opacity: 75%;
+}
+h3.font {
+    font-size: 50px;
+    color: #00d3ff;
+    margin: auto;
+    text-align: center;
+}
+label.lb {
+    font-size: 25px;
+    font-family: monospace;
+    font-style: unset;
+    font-weight: bolder;
+}
+input.ip {
+    width: 85%;
+    height: 36px;
+    border: none;
+    border-bottom: 3px solid #8300ff;
+    font-size: 23px;
+    font-family: monospace;
+    margin: 4px 0;
+    padding: 5px 12px;
+ }
+ .sb, button {
+    width: 195px;
+    height: 45px;
+    border: none;
+    background: #fff700;
+    font-size: 24px;
+    font-family: monospace;
+    font-style: italic;
+    border-radius: 10px;
+}
+
+input.sb:hover {
+    background-color: #44ff00;
+    color: #6200ff;
+}
+
+body {
+    background-color: black;
+}
+
+p.ftext {
+    color: #ffe400;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10px;
+}
+
+div#footer {
+    width: 1000px;
+    height: 54px;
+    background-color: black;
+    margin: auto;
+}

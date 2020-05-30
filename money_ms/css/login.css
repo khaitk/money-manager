@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+a.cre {
+    width: 140px;
+    height: 35px;
+    border: none;
+    background: black;
+    color: blueviolet;
+    font-size: 24px;
+    font-family: monospace;
+    font-style: italic;
+    border-radius: 10px;
+}
+
+h3.font {
+    font-size: 50px;
+    color: #00d3ff;
+    margin: auto;
+    text-align: center;
+}
+
+input.ip {width: 90%;height: 35px;border: none;border-bottom: 3px solid #8300ff;font-size: 20px;padding: 2px 20px;margin: 8px 0;}
+
+label.lb {
+    font-size: 25px;
+    font-family: monospace;
+    font-style: unset;
+    font-weight: bolder;
+}
+
+.sb , button{
+    width: 195px;
+    height: 45px;
+    border: none;
+    background: black;
+    color: blueviolet;
+    font-size: 30px;
+    font-family: monospace;
+    font-style: italic;
+    border-radius: 10px;
+}
+
+input.sb:hover {
+    background-color: #00ff0c;
+    color: red;
+}
+
+body {
+    background-color: black;
+}
+
+.content-lg-right {
+    width: 500px;
+    height: 300px;
+    float: left;
+    background-color: aqua;
+}
+
+.content-lg-left {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: #ffb148;
+}
+
+div#content-lg {
+    width: 475px;
+    height: 245px;
+    position: relative;
+    top: 140px;
+    margin: auto;
+    background-color: #ff2e2e;
+    padding-left: 45px;
+    opacity: 75%;
+}
+
+p.ftext {
+    color: #ffe400;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10px;
+}
+
+div#footer {
+    width: 1000px;
+    height: 54px;
+    background-color: black;
+    margin: auto;
+}
+div#container-login {
+    
+width: 1000px;
+    
+height: 510px;
+    
+margin: auto;
+    
+background-image: url('../image/backgroundms.png');
+}
+img.icon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.icon-wh {
+    position: relative;
+}

@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.toggle-lg {
+    width: 180px;
+    height: 100px;
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    background-color: aqua;
+    padding: 10px;
+    display: none;
+}
+
+button.btn-lg {width: 100px;height: 45px;border: none;background-color: #ff9200;font-family: monospace;font-size: 22px;margin-left: 40px;margin-top: 60px;}
+
+span {
+    font-size: 22px;
+    color: #4bff00;
+    font-weight: bold;
+}
+
+input#txt_time_in {width: 250px;height: 25px;border: none;font-size: 20px;padding: 2px 20px;margin: 8px 0;}
+
+button.btn:hover {
+    background-color: #00ff0c;
+    color: red;
+}
+
+td {
+    padding-left: 19px;
+}
+
+button.btn {
+    width: 100px;
+    height: 45px;
+    border: none;
+    background-color: #ff9200;
+    font-family: monospace;
+    font-size: 22px;
+    margin-left: 45px;
+}
+
+.sm-container-left {
+    width: 101px;
+    height: 45px;
+    position: relative;
+    top: 12px;
+    left: 206px;
+}
+.sm-container-right{
+    width: 252px;
+    height: 45px;
+    position: relative;
+    bottom: 33px;
+    left: 315px;
+}
+
+input.sub {
+    width: 100px;
+    height: 45px;
+    border: none;
+    background-color: #ff9200;
+    font-family: monospace;
+    font-size: 22px;
+}
+
+input.sub:hover {
+    background-color: #00ff0c;
+    color: red;
+}
+
+p.ftext {
+    color: #ffe400;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 8px;
+}
+
+div#footer {
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    top: 260px;
+}
+
+p.font {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    color: #91ff00;
+}
+
+input.ied {
+    width: 250px;
+    height: 25px;
+    border: none;
+    border-bottom: 3px solid #6600c7;
+    font-size: 30px;
+    padding: 6px 20px;
+    margin: 8px 0;
+    font-family: serif, sans-serif;
+}
+
+.table {
+    width: 740px;
+    height: 261px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+.icon-wh {
+    position: relative;
+}
+
+img.icon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+div#header {
+    background-image: url('../image/backgroundms.png');
+    width: 1000px;
+    height: 510px;
+    position: absolute;
+}
+
+div#container {
+    width: 1000px;
+    height: 510px;
+    margin: auto;
+}
+
+body {
+    background-color: black;
+}
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}
